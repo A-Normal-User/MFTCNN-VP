@@ -2,6 +2,25 @@
 - [English](README.md)
 - [Chinese](README_CN.md)
 
+## Pre-print Paper
+The pre-print paper describing the MFTCNN-VP model can be found on ChemRxiv: [Multi-Fidelity Thermodynamically Consistent Neural Networks for Vapor Pressure Prediction of Petroleum Hydrocarbons](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002200/v1).
+
+BiBTeX entry for citation:
+```bibtex
+@article{Li2026MFTCNNVP,
+    author = {Xurui Li  and Zhiguo Gan  and Jiaming Zhang  and Hongxi Zeng  and Zheng Liu  and Diannan Lu },
+    title = {Multi-Fidelity Thermodynamically Consistent Neural Networks for Vapor Pressure Prediction of Petroleum Hydrocarbons},
+    journal = {ChemRxiv},
+    volume = {2026},
+    number = {0420},
+    pages = {},
+    year = {2026},
+    doi = {10.26434/chemrxiv.15002200/v1},
+    URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15002200/v1},
+    eprint = {https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15002200/v1}
+}
+```
+
 ## Introduction
 In chemical research, industrial applications, and environmental management, vapor pressure is a vital physical property. It directly affects the volatility, boiling point, and thermodynamic behavior of substances. The accurate prediction of vapor pressure is essential for designing chemical processes, evaluating environmental risks, and developing new materials. However, traditional vapor pressure prediction methods often rely on extensive experimental data and complex theoretical models, making it difficult for them to adapt to diverse chemical spaces.
 

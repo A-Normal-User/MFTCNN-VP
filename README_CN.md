@@ -3,6 +3,24 @@
 - [English](README.md)
 - [中文](README_CN.md)
 
+## 预印本论文
+描述MFTCNN-VP模型的预印本论文可以在ChemRxiv上找到：[Multi-Fidelity Thermodynamically Consistent Neural Networks for Vapor Pressure Prediction of Petroleum Hydrocarbons](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002200/v1)
+BiBTeX引用条目：
+```bibtex
+@article{Li2026MFTCNNVP,
+    author = {Xurui Li  and Zhiguo Gan  and Jiaming Zhang  and Hongxi Zeng  and Zheng Liu  and Diannan Lu },
+    title = {Multi-Fidelity Thermodynamically Consistent Neural Networks for Vapor Pressure Prediction of Petroleum Hydrocarbons},
+    journal = {ChemRxiv},
+    volume = {2026},
+    number = {0420},
+    pages = {},
+    year = {2026},
+    doi = {10.26434/chemrxiv.15002200/v1},
+    URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15002200/v1},
+    eprint = {https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15002200/v1}
+}
+```
+
 ## 简介
 在化学研究、工业应用和环境治理中，蒸气压是一个重要的物理性质参数，直接影响着物质的挥发性、沸点和热力学行为。准确预测蒸气压对于设计化工过程、评估环境风险和开发新材料具有重要意义。然而，传统的蒸气压预测方法往往依赖于大量的实验数据和复杂的理论模型，难以适应多样化的化学空间。
 为了解决这一问题，我们提出了一种多保真度热力学一致神经网络（MFTCNN-VP），用于预测化合物的蒸气压。该模型结合了多保真度学习和热力学一致性约束，能够在保持高预测精度的同时，确保预测结果符合热力学规律。
